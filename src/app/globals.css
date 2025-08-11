@@ -1,0 +1,7 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* High-contrast focus for accessibility */
+:focus { outline: 2px solid #1d4ed8; outline-offset: 2px; }
